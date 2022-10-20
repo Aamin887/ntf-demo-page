@@ -15,5 +15,5 @@ menuBars.addEventListener('click', () => {
         menuBars.classList.remove('close-nav')
 
     }
-    console.log(11)
+    // console.log(11)
 })
