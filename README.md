@@ -4,7 +4,9 @@
 ### Introduction
 ### Installation
 ### Usage
-  `npm start`
+  ```
+  npm start
+```
 ### Folder Structure
 ### Dependencies
 ### Configuration
