@@ -4,6 +4,7 @@
 ### Introduction
 ### Installation
 ### Usage
+  `npm start`
 ### Folder Structure
 ### Dependencies
 ### Configuration
